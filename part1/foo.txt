@@ -6,5 +6,5 @@ Maybe fill this out?
 
 * The best operating system is Linux
 * The best text editor is Neovim
-* The best kind of phone is _______
+* The best kind of phone is Sony Ericsson
 * The best superhero is Spiderman
